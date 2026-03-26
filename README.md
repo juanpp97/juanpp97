@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jp-pe)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanpablopenaloza97@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=2c5364&labelColor=0f2027)](https://github.com/juanpp97)
+[![GitHub followers](https://img.shields.io/github/followers/juanpp97?style=for-the-badge&color=2c5364&labelColor=0f2027)](https://github.com/juanpp97)
 
 </div>
 
@@ -49,7 +49,7 @@ I'm an **Electronic Engineer** and **PhD candidate** based in Argentina, working
 
 I design and build backend services for production environments — distributed architectures, asynchronous messaging, inter-service communication — with a focus on consistency and resilience. My engineering background in signal processing and embedded systems gives me a systems-level perspective that I bring into every software design decision.
 
-Outside of code, I teach university courses in **Digital Signal Processing**, **Signals & Systems**, and **Microcontrollers** at Universidad Nacional de San Luis.
+Outside of code, I teach university courses in **Digital Signal Processing**, **Signals & Systems**, and **Microcontrollers Architecture and Programming** at Universidad Nacional de San Luis.
 
 > *I write code by hand, understand what I deploy, and care about why things work — not just that they do.*
 
